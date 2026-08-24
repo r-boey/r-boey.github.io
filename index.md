@@ -3,6 +3,9 @@ layout: default
 title: 
 ---
 
+ <img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img">
+</div>
+
 <div class="hero">
   <div class="hero-text" markdown="1">
 ## About Me
@@ -32,5 +35,4 @@ I am a literary critic and social semiotician. I read and write on books, plays,
 - LinkedIn: [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
   </div>
 
-  <img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img">
-</div>
+ 
