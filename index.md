@@ -30,6 +30,8 @@ I am a literary critic and social semiotician. I read and write on books, plays,
 ## Contact
 
 Email: ryanboey20@gmail.com
+<br>ORCID: 0009-0003-6998-663X
 <br>Linkedin: [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
+
 
  
