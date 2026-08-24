@@ -1,0 +1,42 @@
+# Site configuration
+title: Your Name
+author: Your Name
+email: your.email@university.edu
+description: >-
+  PhD Student in [Your Field]
+  [Your University]
+
+url: "https://ryanboey20-code.github.io/ryanboey"
+baseurl: "/ryanboey"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections for academic content
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
+
+# Exclude from build
+exclude:
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
