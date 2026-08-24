@@ -3,4 +3,6 @@ layout: default
 title: CV
 ---
 
-[Download CV](assets/CV.pdf)\n
+# Curriculum Vitae
+
+[Download CV (PDF)](assets/CV.pdf)
