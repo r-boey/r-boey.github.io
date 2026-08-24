@@ -9,21 +9,21 @@ permalink: /about/
 ## Education
 
 - **PhD** in English, King's College London, 2026 – Present
-- **Bachelor's/Master's** in [Your Subject], [University Name], [Graduation Year]
+- **BA (Hons)** in English, National University of Singapore, 2025
 
 ## Background
 
-I am a PhD student in English at King's College London, focusing on [your research area]. My research explores [brief description of your interests].
+I am a literary critic and social semiotician. I read and write on books, plays, films, photographs, linguistic landscapes, and more.
 
 ## Research Interests
 
-- Literary theory and criticism
-- [Your specific area]
-- [Your specific area]
+- Jacobite studies
+- Linguistic fiction
+- Metafiction
+- Social semiotics
+- Singapore arts and culture
 
 ## Contact
 
 - Email: ryanboey20@gmail.com
-- University: King's College London
-- GitHub: [@ryanboey20-code](https://github.com/ryanboey20-code)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
