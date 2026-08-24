@@ -6,11 +6,11 @@ description: >-
   PhD Student in English
   King's College London
 
-url: "https://ryanboey20-code.github.io/ryanboey"
-baseurl: "/ryanboey"
+url: "https://r-boey.github.io"
+baseurl: ""
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
