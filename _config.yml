@@ -1,10 +1,10 @@
 # Site configuration
-title: Your Name
-author: Your Name
-email: your.email@university.edu
+title: Ryan-Ashleigh Boey
+author: Ryan-Ashleigh Boey
+email: ryanboey20@gmail.com
 description: >-
-  PhD Student in [Your Field]
-  [Your University]
+  PhD Student in English
+  King's College London
 
 url: "https://ryanboey20-code.github.io/ryanboey"
 baseurl: "/ryanboey"
