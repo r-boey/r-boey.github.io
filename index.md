@@ -1,7 +1,11 @@
 ---
 layout: default
-title: About Me
+title: 
 ---
+
+## About Me
+
+I am a literary critic and social semiotician. I read and write on books, plays, films, photographs, linguistic landscapes, and more.
 
 ## Education
 
@@ -11,10 +15,6 @@ title: About Me
 ## Academic Positions
 
 - Student Research Fellow, NUS Museum, 2024 - 2025
-
-## Background
-
-I am a literary critic and social semiotician. I read and write on books, plays, films, photographs, linguistic landscapes, and more.
 
 ## Research Interests
 
