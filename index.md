@@ -3,21 +3,30 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# About Me
 
-I'm a PhD student in English at King's College London.
+## Education
+
+- **PhD** in English, King's College London, 2026 – Present
+- **BA (Hons)** in English, National University of Singapore, 2025
+
+## Academic Positions
+
+- Student Research Fellow, NUS Museum
+
+## Background
+
+I am a literary critic and social semiotician. I read and write on books, plays, films, photographs, linguistic landscapes, and more.
 
 ## Research Interests
 
-- Literary Theory
-- [Your Topic 2]
-- [Your Topic 3]
+- Jacobite studies
+- Linguistic fiction
+- Metafiction
+- Social semiotics
+- Singapore arts and culture
 
----
+## Contact
 
-## Quick Links
-
-- [About Me](/ryanboey/about/)
-- [Publications](/ryanboey/publications/)
-- [Projects](/ryanboey/projects/)
-- [CV](/ryanboey/cv/)
+- Email: ryanboey20@gmail.com
+- LinkedIn: [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
