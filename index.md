@@ -31,8 +31,8 @@ I am a literary critic and social semiotician. I read and write on books, plays,
 
 ## Contact
 
-- Email: ryanboey20@gmail.com
-- LinkedIn: [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
+[![Gmail](https://shields.io)] ryanboey20@gmail.com
+[![LinkedIn](https://shields.io)] [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
   </div>
 
  
