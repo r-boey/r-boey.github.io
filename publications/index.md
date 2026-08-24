@@ -8,4 +8,4 @@
 
 ## Journal article
 
-- Boey, Ryan-Ashleigh. "'Love Them. Talk About Sex': A Foucauldian Critical Discourse Study of Home-Based Sexuality Education." *Journal of Language and Discrimination*. Accepted.
+- Boey, Ryan-Ashleigh. "'Love Them. Talk About Sex': A Foucauldian Critical Discourse Study of Home-Based Sexuality Education." *Journal of Language and Discrimination*. accepted.
