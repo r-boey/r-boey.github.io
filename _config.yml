@@ -28,9 +28,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
-  talks:
+  cv:
     output: true
-    permalink: /talks/:path/
+    permalink: /cv/:path/
 
 # Exclude from build
 exclude:
