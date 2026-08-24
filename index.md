@@ -5,17 +5,17 @@ title: Home
 
 # Welcome
 
-I'm a PhD student in [Your Research Field] at [Your University].
+I'm a PhD student in English at King's College London.
 
 ## Research Interests
 
-- Topic 1
-- Topic 2
-- Topic 3
+- Literary Theory
+- [Your Topic 2]
+- [Your Topic 3]
 
 ## Latest News
 
-- **2026**: Starting my PhD journey
+- **2026**: Starting my PhD journey at King's College London
 
 ---
 
