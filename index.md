@@ -29,10 +29,14 @@ I am a literary critic and social semiotician. I read and write on books, plays,
 
 ## Contact
 
-[![LinkedIn](https://shields.io)](https://linkedin.comin/ryan-ashleigh-boey)
-[![Gmail](https://shields.io)](mailto:ryanboey20@gmail.com)
 [![Gmail](https://shields.io)] ryanboey20@gmail.com
 <br>[![LinkedIn](https://shields.io)] [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
  
+<a href="https://linkedin.com/in/ryan-ashleigh-boey" target="_blank">
+  <img src="https://jsdelivr.net" alt="LinkedIn" width="30" height="30" align="center">
+</a>
 
+<a href="mailto:ryanboey20@gmail.com">
+  <img src="https://jsdelivr.net" alt="Gmail" width="30" height="30" align="center">
+</a>
  
