@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Publications
+title: Selected Publications
 permalink: /publications/
 ---
-
-# Selected Publications
 
 ## Book Chapters
 
