@@ -4,11 +4,8 @@ title:
 ---
 
  <img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img">
-</div>
 
-<div class="hero">
-  <div class="hero-text" markdown="1">
-## About Me
+<br>## About Me
 
 I am a literary critic and social semiotician. I read and write on books, plays, films, photographs, linguistic landscapes, and more.
 
@@ -32,7 +29,7 @@ I am a literary critic and social semiotician. I read and write on books, plays,
 ## Contact
 
 [![Gmail](https://shields.io)] ryanboey20@gmail.com
-[![LinkedIn](https://shields.io)] [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
-  </div>
+<br>[![LinkedIn](https://shields.io)] [Ryan-Ashleigh Boey](https://www.linkedin.com/in/ryan-ashleigh-boey)
+ 
 
  
