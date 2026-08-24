@@ -12,7 +12,7 @@ title: Home
 
 ## Academic Positions
 
-- Student Research Fellow, NUS Museum
+- Student Research Fellow, NUS Museum, 2024 - 2025
 
 ## Background
 
