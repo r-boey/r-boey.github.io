@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Home
+title: About Me
 ---
-
-# About Me
 
 ## Education
 
