@@ -6,4 +6,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-[Download CV (PDF)](assets/CV.pdf)
+[Download CV (PDF)]({{ site.baseurl }}/assets/CV.pdf)
