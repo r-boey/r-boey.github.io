@@ -15,24 +15,29 @@ title:
       <h2>Contact</h2>
 
       <p>
-       <!-- Gmail -->
       
-      <a href="mailto:ryanboey20@gmail.com"
-         aria-label="Email"
-         title="Email"
-         style="color:#EA4335; text-decoration:none;">
+      <!-- Outlook -->
+      <a href="mailto:mailto:ryanboey20@gmail.com"
+         aria-label="Outlook"
+         title="Outlook"
+         style="text-decoration:none;">
         <svg xmlns="http://www.w3.org/2000/svg"
-             viewBox="0 0 24 24"
+             viewBox="0 0 512 485"
              width="22"
              height="22"
-             style="vertical-align:middle">
-          <path fill="#EA4335" d="M20 5.5v13h-3V9.1l-5 3.8-5-3.8v9.4H4v-13l8 6z"/>
-          <path fill="#FBBC04" d="M4 5.5l8 6 8-6V8l-8 6-8-6z"/>
-          <path fill="#34A853" d="M4 5.5l3 2.3v10.7H4z"/>
-          <path fill="#4285F4" d="M20 5.5l-3 2.3v10.7h3z"/>
+             style="vertical-align:middle;">
+          <path fill="#0A4DA2"
+                d="M281.2 0h154.6C470.2 0 498 27.8 498 62.2v360.6c0 34.4-27.8 62.2-62.2 62.2H281.2z"/>
+          <path fill="#0078D4"
+                d="M31.1 62.2h250.1v360.6H31.1C13.9 422.8 0 408.9 0 391.7V93.3C0 76.1 13.9 62.2 31.1 62.2z"/>
+          <path fill="#fff"
+                d="M125.9 155.1c-54.8 0-91.8 40.5-91.8 103.4 0 61.6 36.4 101.1 91.8 101.1 54.5 0 91.1-39.5 91.1-101.1 0-62.9-36.6-103.4-91.1-103.4zm0 161.8c-29.2 0-48.1-22.1-48.1-58.4 0-36.6 18.9-59.1 48.1-59.1 29 0 47.5 22.5 47.5 59.1 0 36.3-18.5 58.4-47.5 58.4z"/>
+          <path fill="#0078D4"
+                d="M281.2 0v485l154.6-62.2V62.2z"/>
+          <path fill="#50E6FF"
+                d="M281.2 62.2l154.6 62.2v298.4l-154.6 62.2z"/>
         </svg>
       </a>
-      
         &nbsp;&nbsp;
       
         <!-- ORCID -->
@@ -120,6 +125,23 @@ title:
             <path d="M12.1 3.5c-3.4 0-5.8 2.2-5.8 5.5 0 2.4 1.2 4.2 3.2 5.1L6.6 20.5h2.7l2.7-5h.4c3.5 0 5.8-2.2 5.8-5.5s-2.4-6.5-6.1-6.5zm.2 9.5h-1.1V5.8h1.1c2.1 0 3.5 1.4 3.5 3.7 0 2.2-1.4 3.5-3.5 3.5z"/>
           </svg>
         </a>
+        <!-- Gmail -->
+        <a href="mailto:ryanboey20@gmail.com"
+         aria-label="Email"
+         title="Email"
+         style="color:#EA4335; text-decoration:none;">
+        <svg xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24"
+             width="22"
+             height="22"
+             style="vertical-align:middle">
+          <path fill="#EA4335" d="M20 5.5v13h-3V9.1l-5 3.8-5-3.8v9.4H4v-13l8 6z"/>
+          <path fill="#FBBC04" d="M4 5.5l8 6 8-6V8l-8 6-8-6z"/>
+          <path fill="#34A853" d="M4 5.5l3 2.3v10.7H4z"/>
+          <path fill="#4285F4" d="M20 5.5l-3 2.3v10.7h3z"/>
+        </svg>
+      </a>
+        
       </p>
 
     </td>
