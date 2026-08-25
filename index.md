@@ -43,6 +43,12 @@ title:
         <li>Singapore arts and culture</li>
       </ul>
 
+    </td>
+  </tr>
+
+  <tr>
+    <td width="240" valign="top">
+
       <h2>Contact</h2>
 
       <p>
@@ -99,5 +105,7 @@ title:
       </p>
 
     </td>
+
+    <td></td>
   </tr>
 </table>
