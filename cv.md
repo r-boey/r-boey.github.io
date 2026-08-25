@@ -11,3 +11,12 @@ permalink: /cv/
   height="500px"
   style="border: 1px solid #ddd;">
 </iframe>
+<p>
+  <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">
+    View PDF
+  </a>
+  &nbsp;|&nbsp;
+  <a href="{{ '/assets/CV.pdf' | relative_url }}" download>
+    Download PDF
+  </a>
+</p>
