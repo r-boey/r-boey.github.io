@@ -3,7 +3,6 @@ layout: default
 title: 
 ---
 <table class="profile-layout">
-<table>
   <tr>
     <!-- LEFT COLUMN -->
     <td width="240" valign="top">
