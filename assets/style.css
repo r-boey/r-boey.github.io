@@ -288,13 +288,13 @@ article a:hover {
     display: block;
 }
 
-/* Mobile: combine both desktop rows into one line */
+/* Mobile: all icons on ONE line */
 @media screen and (max-width: 600px) {
     .contact-icons {
         flex-direction: row;
         align-items: center;
-        gap: 10px;
         flex-wrap: nowrap;
+        gap: 10px;
     }
 
     .contact-row {
