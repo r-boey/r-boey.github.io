@@ -44,4 +44,3 @@ title: Selected Publications
   </tr>
 </table>
 
-<br> Essays currently in preparation are listed in my CV. 
