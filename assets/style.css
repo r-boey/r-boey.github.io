@@ -276,3 +276,13 @@ article a:hover {
         margin-left: 0;
     }
 }
+
+.desktop-break {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .desktop-break {
+        display: none;
+    }
+}
