@@ -233,3 +233,28 @@ article a:hover {
         margin-right: auto !important;
     }
 }
+
+@media screen and (max-width: 600px) {
+
+    .education-table {
+        display: table !important;
+        width: 100% !important;
+    }
+
+    .education-table tbody {
+        display: table-row-group !important;
+    }
+
+    .education-table tr {
+        display: table-row !important;
+    }
+
+    .education-table td {
+        display: table-cell !important;
+    }
+
+    .education-table td:first-child {
+        width: 110px !important;
+        white-space: nowrap;
+    }
+}
