@@ -10,7 +10,7 @@ title:
 
       <img src="{{ '/assets/IMG_5818.JPG' | relative_url }}"
            alt="Ryan-Ashleigh Boey"
-           width="200"
+           width="160"
            class="profile-img">
 
       <h2>Contact</h2>
