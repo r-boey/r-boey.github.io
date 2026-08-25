@@ -71,7 +71,7 @@ title:
         &nbsp;&nbsp;
       
         <!-- Google Scholar -->
-        <a href="YOUR-GOOGLE-SCHOLAR-URL"
+        <a href="https://scholar.google.com/citations?user=Ao26WYIAAAAJ&hl=en&authuser=1"
            aria-label="Google Scholar"
            title="Google Scholar"
            style="color:#4285F4; text-decoration:none;">
