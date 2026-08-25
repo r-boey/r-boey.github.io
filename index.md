@@ -99,13 +99,8 @@ title:
           </td>
         </tr>
         <tr>
-          <td width="110" valign="top"> </td>
-          <td valign="top">
-          </td>
-        </tr>
-        <tr>
-          <td valign="top">2025</td>
-          <td valign="top">
+          <td valign="top" style="padding-top: 5px;">2025</td>
+          <td valign="top" style="padding-top: 5px;">
             <strong> BA (Hons) in English</strong>, National University of Singapore
           </td>
         </tr>
