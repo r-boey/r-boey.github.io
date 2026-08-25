@@ -36,24 +36,20 @@ title:
         &nbsp;&nbsp;
       
         <!-- ORCID -->
-        <a href="https://orcid.org/0009-0003-6998-663X"
-           aria-label="ORCID"
-           title="ORCID"
-           style="color:#A6CE39; text-decoration:none;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
-               width="22"
-               height="22"
-               fill="currentColor"
-               style="vertical-align:middle">
-            <circle cx="12" cy="12" r="10"
-                    stroke="currentColor"
-                    fill="none"
-                    stroke-width="2"/>
-            <circle cx="12" cy="9" r="1.5" fill="currentColor"/>
-            <rect x="11" y="12" width="2" height="6" fill="currentColor"/>
-          </svg>
-        </a>
+         <a href="https://orcid.org/0009-0003-6998-663X"
+     aria-label="ORCID"
+     title="ORCID"
+     style="text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 24 24"
+         width="22"
+         height="22"
+         style="vertical-align:middle;">
+      <circle cx="12" cy="12" r="10" fill="#A6CE39"/>
+      <path fill="#FFFFFF" d="M8.2 7.2h1.5v9.6H8.2V7.2zm3.1 0h3.1c2.8 0 4.5 1.8 4.5 4.8s-1.7 4.8-4.5 4.8h-3.1V7.2zm1.5 8.2h1.5c1.9 0 3.2-1.2 3.2-3.4s-1.3-3.4-3.2-3.4h-1.5v6.8z"/>
+      <circle cx="8.95" cy="5.5" r="1" fill="#FFFFFF"/>
+    </svg>
+  </a>
       
         &nbsp;&nbsp;
       
