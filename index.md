@@ -15,8 +15,9 @@ title:
       <h2>Contact</h2>
 
       <p>
+       <!-- Email -->
         <a href="mailto:ryanboey20@gmail.com"
-           aria-label="Email (Gmail)"
+           aria-label="Email"
            title="Email"
            style="color:#D44638; text-decoration:none;">
           <svg xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +26,13 @@ title:
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/>
+            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/>
           </svg>
         </a>
-
+      
         &nbsp;&nbsp;
-
+      
+        <!-- ORCID -->
         <a href="https://orcid.org/0009-0003-6998-663X"
            aria-label="ORCID"
            title="ORCID"
@@ -49,9 +51,10 @@ title:
             <rect x="11" y="12" width="2" height="6" fill="currentColor"/>
           </svg>
         </a>
-
+      
         &nbsp;&nbsp;
-
+      
+        <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/ryan-ashleigh-boey"
            aria-label="LinkedIn"
            title="LinkedIn"
@@ -62,30 +65,32 @@ title:
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 8h5v16H0zM8 8h4.8v2.2h.1c.7-1.3 2.4-2.2 3.9-2.2 4.2 0 5 2.8 5 6.5V24H17v-7.6c0-1.8 0-4.2-2.6-4.2-2.6 0-3 2-3 4v7.8H8V8z"/>
+            <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.61 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM3.55 9h3.57v11.45H3.55V9z"/>
           </svg>
         </a>
-
+      
         &nbsp;&nbsp;
-
-        <a href="YOUR-GOOGLE-SCHOLAR-PROFILE-URL"
+      
+        <!-- Google Scholar -->
+        <a href="YOUR-GOOGLE-SCHOLAR-URL"
            aria-label="Google Scholar"
            title="Google Scholar"
            style="color:#4285F4; text-decoration:none;">
           <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 512 512"
+               viewBox="0 0 24 24"
                width="22"
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M256 0L0 202.7l94.7 77.1C124.8 221.4 185.7 181.3 256 181.3s131.2 40 161.3 98.5l94.7-77.1L256 0z"/>
-            <path d="M405.3 362.7c0-22.9-5.2-44.6-14.4-64-1.7-3.5-3.5-7.1-5.5-10.5-4.4-7.6-9.4-14.7-15-21.3-7.4-8.8-15.7-16.6-24.8-23.5-25-18.8-56-29.9-89.6-29.9-45.9 0-87 20.7-114.4 53.3-5.6 6.6-10.6 13.7-15 21.3-2 3.5-3.9 7.1-5.6 10.7-9.2 19.4-14.4 41.1-14.4 64C106.7 445.1 173.5 512 256 512s149.3-66.9 149.3-149.3z"/>
+            <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3z"/>
+            <path d="M5 12.5V17c0 2.21 3.13 4 7 4s7-1.79 7-4v-4.5l-7 3.82-7-3.82z"/>
           </svg>
         </a>
-
-      &nbsp;&nbsp;
-
-        <a href="[YOUR-ACADEMIA-URL](https://kcl.academia.edu/RyanAshleighBoey)"
+      
+        &nbsp;&nbsp;
+      
+        <!-- Academia.edu -->
+        <a href="YOUR-ACADEMIA-URL"
            aria-label="Academia.edu"
            title="Academia.edu"
            style="color:#41454A; text-decoration:none;">
@@ -95,15 +100,17 @@ title:
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M22.033 21.18L13.77.459H7.869l1.049 2.623L1.836 21.18C1.574 22.098.787 22.23 0 22.361v1.18h6.82v-1.18C4.984 22.23 3.934 21.967 4.721 20c.131-.131.656-1.574 1.311-3.41h8.393l1.18 3.016c.131.525.262.918.262 1.311 0 1.049-.918 1.443-2.623 1.443v1.18H24v-1.18c-.918-.13-1.705-.393-1.967-1.18zM6.82 14.361a363.303 363.303 0 0 0 3.279-8.525l3.41 8.525H6.82z"/>
+            <path d="M12 2L3 21h4l1.7-4h6.6l1.7 4h4L12 2zm0 7.2l2.1 5h-4.2l2.1-5z"/>
           </svg>
         </a>
-
+      
         &nbsp;&nbsp;
-
+      
+        <!-- ResearchGate -->
         <a href="YOUR-RESEARCHGATE-URL"
            aria-label="ResearchGate"
            title="ResearchGate"
+           class="researchgate-icon"
            style="color:#00CCBB; text-decoration:none;">
           <svg xmlns="http://www.w3.org/2000/svg"
                viewBox="0 0 24 24"
@@ -111,7 +118,7 @@ title:
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M17.5 12.2c0-3.8-2.6-6.2-6.3-6.2H6v12.5h2.3v-4.1h2.6c1 0 1.9-.2 2.7-.6l2.7 4.7h2.6l-3.1-5.3c1.1-.9 1.7-2.2 1.7-3.7zm-6.4 0H8.3V8.1h2.8c2.3 0 3.9 1.4 3.9 3.4s-1.6 3.5-3.9 3.5z"/>
+            <path d="M12.1 3.5c-3.4 0-5.8 2.2-5.8 5.5 0 2.4 1.2 4.2 3.2 5.1L6.6 20.5h2.7l2.7-5h.4c3.5 0 5.8-2.2 5.8-5.5s-2.4-6.5-6.1-6.5zm.2 9.5h-1.1V5.8h1.1c2.1 0 3.5 1.4 3.5 3.7 0 2.2-1.4 3.5-3.5 3.5z"/>
           </svg>
         </a>
       </p>
