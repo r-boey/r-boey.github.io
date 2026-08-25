@@ -258,3 +258,21 @@ article a:hover {
         white-space: nowrap;
     }
 }
+.researchgate-icon {
+    margin-left: 20px;
+}
+
+@media screen and (min-width: 601px) {
+    .researchgate-icon {
+        display: block;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .researchgate-icon {
+        display: inline;
+        margin-left: 0;
+    }
+}
