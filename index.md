@@ -95,7 +95,7 @@ title:
         <tr>
           <td valign="top">2026 –</td>
           <td valign="top">
-            <strong>PhD in English</strong>, King's College London 
+            <strong>PhD (English)</strong>, King's College London 
           </td>
         </tr>
         <tr>
