@@ -91,9 +91,9 @@ title:
       
       <h2>Education</h2>
 
-      <table>
+      <table class="education-table">
         <tr>
-          <td width="110" valign="top">2026 – </td>
+          <td valign="top">2026 –</td>
           <td valign="top">
             <strong>PhD in English</strong>, King's College London 
           </td>
