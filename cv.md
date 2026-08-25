@@ -7,7 +7,7 @@ permalink: /cv/
 <h2>My CV</h2>
 <iframe
   src="{{ '/assets/CV.pdf' | relative_url }}"
-  width="70%"
+  width="80%"
   height="500px"
   style="border: 1px solid #ddd;">
 </iframe>
