@@ -15,20 +15,23 @@ title:
       <h2>Contact</h2>
 
       <p>
-       <!-- Email -->
-        <a href="mailto:ryanboey20@gmail.com"
-           aria-label="Email"
-           title="Email"
-           style="color:#D44638; text-decoration:none;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
-               width="22"
-               height="22"
-               fill="currentColor"
-               style="vertical-align:middle">
-            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/>
-          </svg>
-        </a>
+       <!-- Gmail -->
+      
+      <a href="mailto:ryanboey20@gmail.com"
+         aria-label="Email"
+         title="Email"
+         style="color:#EA4335; text-decoration:none;">
+        <svg xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24"
+             width="22"
+             height="22"
+             style="vertical-align:middle">
+          <path fill="#EA4335" d="M20 5.5v13h-3V9.1l-5 3.8-5-3.8v9.4H4v-13l8 6z"/>
+          <path fill="#FBBC04" d="M4 5.5l8 6 8-6V8l-8 6-8-6z"/>
+          <path fill="#34A853" d="M4 5.5l3 2.3v10.7H4z"/>
+          <path fill="#4285F4" d="M20 5.5l-3 2.3v10.7h3z"/>
+        </svg>
+      </a>
       
         &nbsp;&nbsp;
       
