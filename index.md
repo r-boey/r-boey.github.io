@@ -79,6 +79,16 @@ title:
         plays, films, photographs, linguistic landscapes, and more.
       </p>
 
+      <h2>Research Interests</h2>
+
+      <ul>
+        <li>Jacobite studies</li>
+        <li>Linguistic fiction</li>
+        <li>Metafiction</li>
+        <li>Social semiotics</li>
+        <li>Singapore arts and culture</li>
+      </ul>
+      
       <h2>Education</h2>
 
       <table>
@@ -92,8 +102,7 @@ title:
         <tr>
           <td valign="top">2025</td>
           <td valign="top">
-            <strong>BA (Hons) in English</strong><br>
-            National University of Singapore
+            BA (Hons) in English, National University of Singapore
           </td>
         </tr>
       </table>
@@ -104,21 +113,10 @@ title:
         <tr>
           <td width="110" valign="top">2024 – 2025</td>
           <td valign="top">
-            <strong>Student Research Fellow</strong><br>
-            NUS Museum
+            Student Research Fellow, NUS Museum
           </td>
         </tr>
       </table>
-
-      <h2>Research Interests</h2>
-
-      <ul>
-        <li>Jacobite studies</li>
-        <li>Linguistic fiction</li>
-        <li>Metafiction</li>
-        <li>Social semiotics</li>
-        <li>Singapore arts and culture</li>
-      </ul>
 
     </td>
   </tr>
