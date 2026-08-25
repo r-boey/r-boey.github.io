@@ -4,50 +4,13 @@ title:
 ---
 <table>
   <tr>
+    <!-- LEFT COLUMN -->
     <td width="240" valign="top">
+
       <img src="{{ '/assets/IMG_5818.JPG' | relative_url }}"
            alt="Ryan-Ashleigh Boey"
            width="200"
            class="profile-img">
-    </td>
-
-    <td valign="top">
-
-      <h2>About Me</h2>
-
-      <p>
-        I am a literary critic and social semiotician. I read and write on books,
-        plays, films, photographs, linguistic landscapes, and more.
-      </p>
-
-      <h2>Education</h2>
-
-      <ul>
-        <li><strong>PhD</strong> in English, King's College London, 2026 – Present</li>
-        <li><strong>BA (Hons)</strong> in English, National University of Singapore, 2025</li>
-      </ul>
-
-      <h2>Academic Positions</h2>
-
-      <ul>
-        <li>Student Research Fellow, NUS Museum, 2024 – 2025</li>
-      </ul>
-
-      <h2>Research Interests</h2>
-
-      <ul>
-        <li>Jacobite studies</li>
-        <li>Linguistic fiction</li>
-        <li>Metafiction</li>
-        <li>Social semiotics</li>
-        <li>Singapore arts and culture</li>
-      </ul>
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="240" valign="top">
 
       <h2>Contact</h2>
 
@@ -62,7 +25,7 @@ title:
                height="22"
                fill="currentColor"
                style="vertical-align:middle">
-            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/>
+            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1.9-2-2-2zm0 4-8 5L4 8V6l8 5 8-5v2z"/>
           </svg>
         </a>
 
@@ -106,6 +69,57 @@ title:
 
     </td>
 
-    <td></td>
+    <!-- RIGHT COLUMN -->
+    <td valign="top">
+
+      <h2>About Me</h2>
+
+      <p>
+        I am a literary critic and social semiotician. I read and write on books,
+        plays, films, photographs, linguistic landscapes, and more.
+      </p>
+
+      <h2>Education</h2>
+
+      <table>
+        <tr>
+          <td width="110" valign="top">2026 – </td>
+          <td valign="top">
+            <strong>PhD in English</strong><br>
+            King's College London
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">2025</td>
+          <td valign="top">
+            <strong>BA (Hons) in English</strong><br>
+            National University of Singapore
+          </td>
+        </tr>
+      </table>
+
+      <h2>Academic Positions</h2>
+
+      <table>
+        <tr>
+          <td width="110" valign="top">2024 – 2025</td>
+          <td valign="top">
+            <strong>Student Research Fellow</strong><br>
+            NUS Museum
+          </td>
+        </tr>
+      </table>
+
+      <h2>Research Interests</h2>
+
+      <ul>
+        <li>Jacobite studies</li>
+        <li>Linguistic fiction</li>
+        <li>Metafiction</li>
+        <li>Social semiotics</li>
+        <li>Singapore arts and culture</li>
+      </ul>
+
+    </td>
   </tr>
 </table>
