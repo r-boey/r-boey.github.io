@@ -3,7 +3,7 @@ layout: default
 title: Selected Publications
 ---
 
-<h2>Publications</h2>
+<h2>Selected Publications</h2>
 
 <h3>Book Chapters</h3>
 
