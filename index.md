@@ -101,7 +101,7 @@ title:
         <tr>
           <td valign="top" style="padding-top: 5px;">2025</td>
           <td valign="top" style="padding-top: 5px;">
-            <strong> BA (Hons) in English</strong>, National University of Singapore
+            <strong> BA (Hons) English</strong>, National University of Singapore
           </td>
         </tr>
       </table>
