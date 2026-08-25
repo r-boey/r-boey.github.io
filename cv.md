@@ -9,5 +9,5 @@ permalink: /cv/
   src="{{ '/assets/CV.pdf' | relative_url }}"
   width="70%"
   height="500px"
-  style="border: none;">
+  style="border: 1px solid #ddd;">
 </iframe>
