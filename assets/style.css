@@ -258,31 +258,48 @@ article a:hover {
         white-space: nowrap;
     }
 }
-.researchgate-icon {
-    margin-left: 20px;
+.contact-icons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
-@media screen and (min-width: 601px) {
-    .researchgate-icon {
-        display: block;
-        margin-left: 0;
-        margin-top: 10px;
-    }
+.contact-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
+.contact-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    text-decoration: none !important;
+}
+
+/* Desktop: two rows */
+.contact-icons {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact-row {
+    flex-wrap: nowrap;
+}
+
+/* Mobile: ALL icons on one line */
 @media screen and (max-width: 600px) {
-    .researchgate-icon {
-        display: inline;
-        margin-left: 0;
+    .contact-icons {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 10px;
     }
-}
 
-.desktop-break {
-    display: block;
-}
-
-@media screen and (max-width: 600px) {
-    .desktop-break {
-        display: none;
+    .contact-row {
+        display: contents;
     }
 }
