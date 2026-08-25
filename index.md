@@ -2,8 +2,10 @@
 layout: default
 title: 
 ---
-<img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img">
- <br>
+<img src="{{ '/assets/IMG_5818.JPG' | relative_url }}"
+     alt="Ryan-Ashleigh Boey"
+     width="200"
+     style="float:left; margin:0 32px 24px 0; border-radius:8px;">
 
 ## About Me
 
