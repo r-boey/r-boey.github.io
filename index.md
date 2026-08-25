@@ -95,13 +95,13 @@ title:
         <tr>
           <td width="110" valign="top">2026 – </td>
           <td valign="top">
-            PhD in English, King's College London
+            <strong>PhD in English</strong>, King's College London <br>
           </td>
         </tr>
         <tr>
           <td valign="top">2025</td>
           <td valign="top">
-            BA (Hons) in English, National University of Singapore
+            <strong> BA (Hons) in English</strong>, National University of Singapore
           </td>
         </tr>
       </table>
@@ -112,7 +112,7 @@ title:
         <tr>
           <td width="110" valign="top">2024 – 2025</td>
           <td valign="top">
-            Student Research Fellow, NUS Museum
+            <strong>Student Research Fellow</strong>, NUS Museum
           </td>
         </tr>
       </table>
