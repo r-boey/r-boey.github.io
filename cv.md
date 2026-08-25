@@ -4,13 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
-<p>
-  <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">
-  </a>
-  &nbsp;
-  <a href="{{ '/assets/CV.pdf' | relative_url }}" download>
-    Download
-  </a>
-</p>
+<div style="max-width: 900px;">
+  <iframe
+    src="{{ '/assets/CV.pdf' }}"
+    width="100%"
+    height="800px"
+    style="border: 1px solid #ddd;">
+  </iframe>
+</div>
 
 
