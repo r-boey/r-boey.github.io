@@ -89,7 +89,7 @@ title:
         &nbsp;&nbsp;
       
         <!-- Academia.edu -->
-        <a href="kcl.academia.edu/RyanAshleighBoey"
+        <a href="https://kcl.academia.edu/RyanAshleighBoey"
            aria-label="Academia.edu"
            title="Academia.edu"
            style="color:#41454A; text-decoration:none;">
