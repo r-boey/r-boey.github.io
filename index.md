@@ -2,7 +2,7 @@
 layout: default
 title: 
 ---
-<img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img"><img width="451" height="67" alt="image" src="https://github.com/user-attachments/assets/533cba10-bec0-4448-9260-1203bea6224e" />
+<img src="{{ '/assets/IMG_5818.JPG' | relative_url }}" alt="Ryan-Ashleigh Boey" class="profile-img"><img width="451" height="67" alt="image">
  <br>
 
 ## About Me
