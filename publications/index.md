@@ -35,7 +35,7 @@ title: Selected Publications
 
 <table>
   <tr>
-    <td width="110" valign="top">Accepted</td>
+    <td width="110" valign="top">Forthcoming</td>
     <td valign="top">
       Boey, Ryan-Ashleigh. "'Love Them. Talk About Sex': A Foucauldian
       Critical Discourse Study of Home-Based Sexuality Education."
