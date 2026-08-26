@@ -2,7 +2,6 @@
 layout: default
 title: 
 ---
-<meta name="google-site-verification" content="kK4Y4-gs8MVPIQlZFJjlytwLPIiI3YpkA0IOzCtywBk" />
 
 <table class="profile-layout">
   <tr>
