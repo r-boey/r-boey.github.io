@@ -22,7 +22,7 @@ title:
         <div class="contact-row">
 
           <!-- Outlook -->
-          <a href="mailto:ryanboey20@gmail.com"
+          <a href="mailto:ryan-ashleigh.boey@kcl.ac.uk"
              aria-label="Outlook"
              title="Outlook"
              class="contact-icon">
