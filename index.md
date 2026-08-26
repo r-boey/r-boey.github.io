@@ -176,7 +176,7 @@ title:
 
 
           <!-- ResearchGate -->
-          <a href="YOUR-RESEARCHGATE-URL"
+          <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey?ev=hdr_xprf"
              aria-label="ResearchGate"
              title="ResearchGate"
              class="contact-icon"
