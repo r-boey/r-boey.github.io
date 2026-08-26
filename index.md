@@ -266,7 +266,7 @@ title:
 
         <tr>
           <td valign="top" style="padding-top: 5px;">
-            2025
+            2021 – 2025
           </td>
 
           <td valign="top" style="padding-top: 5px;">
