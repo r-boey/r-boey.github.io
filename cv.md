@@ -3,20 +3,26 @@ layout: default
 title: CV
 permalink: /cv/
 ---
+
 <div style="max-width: 900px; margin-top: 20px;">
-<h2>My CV</h2>
-<iframe
-  src="{{ '/assets/CV.pdf' | relative_url }}"
-  width="80%"
-  height="500px"
-  style="border: 1px solid #ddd;">
-</iframe>
-<p>
-  <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">
-    View PDF
-  </a>
-  &nbsp;|&nbsp;
-  <a href="{{ '/assets/CV.pdf' | relative_url }}" download>
-    Download PDF
-  </a>
-</p>
+
+  <h2>My CV</h2>
+
+  <iframe
+    src="{{ '/assets/CV.pdf' | relative_url }}"
+    width="80%"
+    height="500px"
+    style="border: 1px solid #ddd;">
+  </iframe>
+
+  <p>
+    <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">
+      View PDF
+    </a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/assets/CV.pdf' | relative_url }}" download>
+      Download PDF
+    </a>
+  </p>
+
+</div>
