@@ -258,7 +258,10 @@ title:
       <table class="education-table">
 
         <tr>
-          <td valign="top">2026 –</td>
+          <td width="110" valign="top">
+            2026 –
+          </td>
+          
           <td valign="top">
             <strong>PhD (English)</strong>, King's College London
           </td>
