@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryan-Ashleigh Boey (Ryan Boey)
+title: 
 ---
 
 <table class="profile-layout">
