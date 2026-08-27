@@ -102,18 +102,15 @@ title: Ryan-Ashleigh Boey
       
       
         <!-- ResearchGate -->
-        <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey?ev=hdr_xprf"
+        <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
            aria-label="ResearchGate"
            title="ResearchGate"
-           style="color:#00CCBB; text-decoration:none;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
+           style="text-decoration:none;">
+          <img src="{{ '/assets/researchgate.png' | relative_url }}"
+               alt="ResearchGate"
                width="22"
                height="22"
-               fill="currentColor"
-               style="vertical-align:middle;">
-            <path d="M12.1 3.5c-3.4 0-5.8 2.2-5.8 5.5 0 2.4 1.2 4.2 3.2 5.1L6.6 20.5h2.7l2.7-5h.4c3.5 0 5.8-2.2 5.8-5.5s-2.4-6.5-6.1-6.5zm.2 9.5h-1.1V5.8h1.1c2.1 0 3.5 1.4 3.5 3.7 0 2.2-1.4 3.5-3.5 3.5z"/>
-          </svg>
+               style="display:block;">
         </a>
       
       
