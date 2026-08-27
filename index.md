@@ -155,9 +155,24 @@ title: Ryan-Ashleigh Boey
                   d="M15.7 8.3c-.8-.8-2-1.3-3.4-1.3-2.6 0-4.4 1.6-4.4 3.8 0 2.1 1.5 3.2 3.8 3.7 1.5.3 2.1.7 2.1 1.5 0 .7-.7 1.2-1.7 1.2-1.1 0-2-.4-2.8-1.2l-1.2 1.4c1 1 2.4 1.6 4 1.6 2.5 0 4.2-1.5 4.2-3.5 0-2-1.4-3-3.7-3.5-1.6-.4-2.2-.7-2.2-1.5 0-.8.7-1.4 1.8-1.4 1 0 1.8.3 2.5 1l1-1.8z"/>
           </svg>
         </a>
-      
         &nbsp;&nbsp;
-      
+
+        <!-- Web of Science -->
+        <a href="https://www.webofscience.com/wos/author/record/QXI-6131-2026"
+           aria-label="Web of Science"
+           title="Web of Science"
+           style="color:#5B2C83; text-decoration:none;">
+          <svg xmlns="http://www.w3.org/2000/svg"
+               viewBox="0 0 24 24"
+               width="22"
+               height="22"
+               style="vertical-align:middle;">
+            <circle cx="12" cy="12" r="10" fill="#5B2C83"/>
+            <path fill="#FFFFFF"
+                  d="M7 8.2h2.1l1.5 4.9 1.5-4.9h1.8l1.5 4.9 1.5-4.9H19l-2.4 7.6h-1.9l-1.7-5.1-1.6 5.1H9.5L7 8.2z"/>
+          </svg>
+        </a>
+        &nbsp;&nbsp;
       
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/ryan-ashleigh-boey"
