@@ -158,7 +158,7 @@ title: Ryan-Ashleigh Boey
         &nbsp;&nbsp;
 
         <!-- Web of Science -->
-        <a href="https://www.webofscience.com/wos/author/record/QXI-6131-2026"
+        <a href="#"
            aria-label="Web of Science"
            title="Web of Science"
            style="color:#5B2C83; text-decoration:none;">
@@ -167,9 +167,10 @@ title: Ryan-Ashleigh Boey
                width="22"
                height="22"
                style="vertical-align:middle;">
-            <circle cx="12" cy="12" r="10" fill="#5B2C83"/>
-            <path fill="#FFFFFF"
-                  d="M7 8.2h2.1l1.5 4.9 1.5-4.9h1.8l1.5 4.9 1.5-4.9H19l-2.4 7.6h-1.9l-1.7-5.1-1.6 5.1H9.5L7 8.2z"/>
+            <path fill="currentColor"
+                  d="M5.2 5.2L12 18.8L18.8 5.2
+                     M5.2 5.2L12 9.3L18.8 5.2
+                     M12 9.3V18.8"/>
           </svg>
         </a>
         &nbsp;&nbsp;
