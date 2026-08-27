@@ -288,16 +288,14 @@ article a:hover {
     display: block;
 }
 
-/* Mobile: all icons on ONE line */
-@media screen and (max-width: 600px) {
-    .contact-icons {
-        flex-direction: row;
-        align-items: center;
-        flex-wrap: nowrap;
-        gap: 10px;
-    }
+/* Social icons: two rows on desktop, one row on mobile */
 
-    .contact-row {
-        display: contents;
+.social-break {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .social-break {
+        display: none;
     }
 }
