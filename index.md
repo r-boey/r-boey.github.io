@@ -157,20 +157,46 @@ title: Ryan-Ashleigh Boey
         </a>
         &nbsp;&nbsp;
 
-        <!-- Web of Science -->
+        <!-- Web of Science / Clarivate -->
         <a href="https://www.webofscience.com/wos/author/record/QXI-6131-2026"
            aria-label="Web of Science"
            title="Web of Science"
-           style="color:#5B2C83; text-decoration:none;">
+           style="text-decoration:none;">
           <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
+               viewBox="0 0 100 100"
                width="22"
                height="22"
                style="vertical-align:middle;">
-            <path fill="currentColor"
-                  d="M5.2 5.2L12 18.8L18.8 5.2
-                     M5.2 5.2L12 9.3L18.8 5.2
-                     M12 9.3V18.8"/>
+        
+            <!-- Black segment -->
+            <path fill="#000000"
+                  d="M27.5 20.5
+                     C18.8 28.8 15 40.0 15 50
+                     C15 60 18.8 71.2 27.5 79.5
+                     L40.5 73
+                     C36.8 65.8 35 58.1 35 50
+                     C35 41.9 36.8 34.2 40.5 27
+                     Z"/>
+        
+            <!-- Purple segment -->
+            <path fill="#5B3F95"
+                  d="M40.5 27
+                     C48.8 12.8 63.5 7.5 78.5 12.5
+                     C87.0 15.3 94.2 20.8 99 27.5
+                     L86 48.5
+                     C82.5 43.0 77.0 38.0 70.5 34.8
+                     C60.5 29.8 50 27.2 40.5 27
+                     Z"/>
+        
+            <!-- Green segment -->
+            <path fill="#14A83B"
+                  d="M86 48.5
+                     C82.5 54.5 77.0 60.0 70.5 64.2
+                     C60.5 70.7 50 73.0 40.5 73
+                     L53 94
+                     C63.5 91.5 74.5 86.5 83.5 78.5
+                     C90.2 72.5 95.5 65.5 99 58
+                     Z"/>
           </svg>
         </a>
         &nbsp;&nbsp;
