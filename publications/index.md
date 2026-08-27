@@ -13,7 +13,7 @@ title: Selected Publications
     <td valign="top">
       Boey, Ryan-Ashleigh. "Being-Now/here: Hauntological Ghosts and
       <em>The Spirits Play</em>."
-      <a href="https://www.bloomsbury.com/uk/theatre-performance-and-the-fantastic-volume-1-stages-and-scripts-9781350386654/">
+      <a href="https://www.bloomsbury.com/uk/theatre-performance-and-the-fantastic-volume-1-9781350511910/">
         <em>Theatre, Performance and the Fantastic, Volume 1: Stages and Scripts</em></a>,
       edited by Ian Farnell, Bloomsbury, 2027.
     </td>
@@ -24,7 +24,7 @@ title: Selected Publications
     <td valign="top">
       Boey, Ryan-Ashleigh. "The Wild Robot and the Image of AI in the Age
       of AI."
-      <a href="https://anthempress.com/books/ai-in-contemporary-youth-literature-and-film-essays-from-around-the-world/">
+      <a href="https://anthempress.com/books/ai-in-contemporary-youth-literature-and-film-hb">
         <em>AI in Contemporary Youth Literature and Film: Essays from Around the World</em></a>,
       edited by Sara Pini and Emily Midkiff, Anthem Press, 2027.
     </td>
