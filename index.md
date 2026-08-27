@@ -46,18 +46,18 @@ title: Ryan-Ashleigh Boey (Ryan Boey)
 
         <!-- King's College London -->
         <a href="#"
-           aria-label="King's College London"
-           title="King's College London"
-           style="color:#51247A; text-decoration:none;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
-               width="22"
-               height="22"
-               fill="currentColor"
-               style="vertical-align:middle;">
-            <path d="M4 3h16v18H4V3zm3 3v12h2V6H7zm4 0v12h2V6h-2zm4 0v12h2V6h-2z"/>
-          </svg>
-        </a>
+        aria-label="King's College London"
+        title="King's College London"
+        style="text-decoration:none;">
+        <svg xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24"
+             width="22"
+             height="22"
+             style="vertical-align:middle;">
+        <rect width="24" height="24" rx="1" fill="#E31B23"/>
+        <path fill="#FFFFFF" d="M6 4h3v6.3L14.8 4H19l-6.1 7.2L19.5 20H15l-6-7.1V20H6V4z"/>
+     </svg>
+    </a>
 
         &nbsp;&nbsp;
       
