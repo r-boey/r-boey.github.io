@@ -6,6 +6,7 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
     {% seo %}
+    {% if page.url == "/" %}
     <script type="application/ld+json">
     {
     "@context": "https://schema.org",
@@ -15,6 +16,7 @@
     "url": "https://r-boey.github.io/"
     }
     </script>
+    {% endif %}
 
 </head>
 <body>
