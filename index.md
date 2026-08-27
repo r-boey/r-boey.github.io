@@ -83,7 +83,7 @@ title:
       
       
         <!-- Google Scholar -->
-        <a href="#"
+        <a href="https://scholar.google.com/citations?user=Ao26WYIAAAAJ&hl=en&authuser=1"
            aria-label="Google Scholar"
            title="Google Scholar"
            style="color:#4285F4; text-decoration:none;">
@@ -102,7 +102,7 @@ title:
       
       
         <!-- ResearchGate -->
-        <a href="#"
+        <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey?ev=hdr_xprf"
            aria-label="ResearchGate"
            title="ResearchGate"
            style="color:#00CCBB; text-decoration:none;">
@@ -122,7 +122,7 @@ title:
       
       
         <!-- Academia.edu -->
-        <a href="#"
+        <a href="https://kcl.academia.edu/RyanAshleighBoey"
            aria-label="Academia.edu"
            title="Academia.edu"
            style="color:#41454A; text-decoration:none;">
