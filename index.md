@@ -101,21 +101,33 @@ title: Ryan-Ashleigh Boey
         &nbsp;&nbsp;
       
       
-       <!-- ResearchGate -->
-       <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
-        aria-label="ResearchGate"
-        title="ResearchGate"
-        style="text-decoration:none; display:inline-flex; align-items:center;">
-        <svg xmlns="http://www.w3.org/2000/svg"
-             viewBox="0 0 32 32"
-             width="22"
-             height="22"
-             aria-hidden="true">
-        <rect width="32" height="32" rx="4" fill="#00CCBB"/>
-        <path fill="#FFFFFF" d="M9.1 8.2h7.1c3.8 0 6.1 1.9 6.1 5.1 0 2.4-1.3 4.1-3.5 4.8l3.8 5.7h-3.9l-3.3-5.2h-2.7v5.2H9.1V8.2zm3.6 2.9v4.6h3.1c1.9 0 2.9-.8 2.9-2.3 0-1.5-1-2.3-2.9-2.3h-3.1z"/>
-        <path fill="#FFFFFF" d="M21.8 6.1h2.4v3h-2.4z"/>
-      </svg>
-    </a>
+        <!-- ResearchGate -->
+        <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
+           aria-label="ResearchGate"
+           title="ResearchGate"
+           style="text-decoration:none;">
+          <svg xmlns="http://www.w3.org/2000/svg"
+               viewBox="0 0 32 32"
+               width="22"
+               height="22"
+               style="vertical-align:middle;">
+            <rect width="32"
+                  height="32"
+                  rx="3"
+                  fill="#00CCBB"/>
+
+            <!-- R -->
+            <path fill="#FFFFFF"
+                  d="M7 7h8.2c4.1 0 6.6 2.1 6.6 5.6
+                     0 2.6-1.5 4.4-4 5.1l4.5 7.3h-4.5
+                     l-3.9-6.7h-2.7V25H7V7zm4.2 3.5v6.1h3.4
+                     c2 0 3-1 3-3.05 0-2.02-1-3.05-3-3.05h-3.4z"/>
+
+            <!-- raised G -->
+            <path fill="#FFFFFF"
+                  d="M21.1 7h4.1v3.1h-4.1z"/>
+          </svg>
+        </a>
       
       
         <!-- Desktop line break -->
