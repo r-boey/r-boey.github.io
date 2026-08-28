@@ -102,16 +102,20 @@ title: Ryan-Ashleigh Boey
       
       
        <!-- ResearchGate -->
-        <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
-       aria-label="ResearchGate"
-       title="ResearchGate"
-       style="text-decoration:none; display:inline-flex; align-items:center;">
-      <img src="{{ '/assets/researchgate.svg' | relative_url }}"
-       alt="ResearchGate"
-       width="22"
-       height="22"
-       style="display:block;">
-      </a>
+       <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
+        aria-label="ResearchGate"
+        title="ResearchGate"
+        style="text-decoration:none; display:inline-flex; align-items:center;">
+        <svg xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 32 32"
+             width="22"
+             height="22"
+             aria-hidden="true">
+        <rect width="32" height="32" rx="4" fill="#00CCBB"/>
+        <path fill="#FFFFFF" d="M9.1 8.2h7.1c3.8 0 6.1 1.9 6.1 5.1 0 2.4-1.3 4.1-3.5 4.8l3.8 5.7h-3.9l-3.3-5.2h-2.7v5.2H9.1V8.2zm3.6 2.9v4.6h3.1c1.9 0 2.9-.8 2.9-2.3 0-1.5-1-2.3-2.9-2.3h-3.1z"/>
+        <path fill="#FFFFFF" d="M21.8 6.1h2.4v3h-2.4z"/>
+      </svg>
+    </a>
       
       
         <!-- Desktop line break -->
