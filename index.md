@@ -103,17 +103,15 @@ title: Ryan-Ashleigh Boey
       
        <!-- ResearchGate -->
         <a href="https://www.researchgate.net/profile/Ryan-Ashleigh-Boey"
-           aria-label="ResearchGate"
-           title="ResearchGate"
-           style="color:#41454A; text-decoration:none; display:inline-flex; align-items:center;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 32 32"
-               width="22"
-               height="22"
-               aria-hidden="true">
-            <path fill="currentColor" d="M16 0C7.163 0 0 7.163 0 16s7.163 16 16 16 16-7.163 16-16S24.837 0 16 0zm6.29 23.28c-.52.27-1.18.4-1.98.4-1.12 0-2-.28-2.64-.85-.64-.57-1.08-1.39-1.32-2.46l-.46-2.17c-.17-.78-.43-1.32-.8-1.62-.36-.3-.91-.45-1.64-.45H9.73v5.13H7.1V8.74h6.07c1.62 0 2.87.36 3.76 1.09.89.73 1.34 1.77 1.34 3.13 0 .89-.22 1.65-.66 2.27-.44.62-1.06 1.08-1.85 1.38.64.27 1.08.84 1.31 1.72l.57 2.5c.11.49.28.84.52 1.06.24.22.59.33 1.06.33.36 0 .68-.08.96-.24l.1 1.3zM13.1 10.86H9.73v3.44h3.37c.8 0 1.4-.15 1.8-.46.4-.31.6-.73.6-1.27 0-.55-.2-.97-.6-1.26-.4-.3-1-.45-1.8-.45z"/>
-          </svg>
-        </a>
+       aria-label="ResearchGate"
+       title="ResearchGate"
+       style="text-decoration:none; display:inline-flex; align-items:center;">
+      <img src="{{ '/assets/researchgate.svg' | relative_url }}"
+       alt="ResearchGate"
+       width="22"
+       height="22"
+       style="display:block;">
+      </a>
       
       
         <!-- Desktop line break -->
