@@ -128,7 +128,8 @@ title: Ryan-Ashleigh Boey
                   d="M21.1 7h4.1v3.1h-4.1z"/>
           </svg>
         </a>
-      
+        
+       &nbsp;&nbsp;
       
         <!-- Desktop line break -->
         <br class="social-break">
