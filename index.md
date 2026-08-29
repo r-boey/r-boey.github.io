@@ -254,23 +254,6 @@ title: Ryan-Ashleigh Boey
           </svg>
         </a>
 
-        &nbsp;&nbsp;
-
-        <!-- Desktop line break -->
-        <br class="social-break">
-
-
-        <!-- Semantic Scholar -->
-        <a href="YOUR-SEMANTIC-SCHOLAR-PROFILE-URL"
-        aria-label="Semantic Scholar"
-        title="Semantic Scholar"
-        style="text-decoration:none;">
-        <img src="{{ '/assets/semantic-scholar.png' | relative_url }}"
-        alt="Semantic Scholar"
-        width="30"
-        height="22"
-        style="display:block;">
-        </a>
       </p>
 
     </td>
