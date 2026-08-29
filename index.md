@@ -261,19 +261,15 @@ title: Ryan-Ashleigh Boey
 
 
         <!-- Semantic Scholar -->
-        <a href="https://www.semanticscholar.org/author/Ryan-Ashleigh-Boey/0"
-           aria-label="Semantic Scholar"
-           title="Semantic Scholar"
-           style="text-decoration:none;">
-          <svg xmlns="http://www.w3.org/2000/svg"
-               viewBox="0 0 24 24"
-               width="22"
-               height="22"
-               style="vertical-align:middle;">
-            <circle cx="12" cy="12" r="10" fill="#1857B6"/>
-            <path fill="#FFFFFF"
-                  d="M7 7h3.1l2.9 4.2L15.9 7H19l-4.3 5.8L19.2 17h-3.3L13 13.3 10.1 17H7l4.4-5.8L7 7z"/>
-          </svg>
+        <a href="YOUR-SEMANTIC-SCHOLAR-PROFILE-URL"
+        aria-label="Semantic Scholar"
+        title="Semantic Scholar"
+        style="text-decoration:none;">
+        <img src="{{ '/assets/semantic-scholar.png' | relative_url }}"
+        alt="Semantic Scholar"
+        width="30"
+        height="22"
+        style="display:block;">
         </a>
       </p>
 
