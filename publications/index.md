@@ -25,7 +25,7 @@ title: Selected Publications
       Boey, Ryan-Ashleigh. "The Wild Robot and the Image of AI in the Age
       of AI."
       <a href="https://anthempress.com/books/ai-in-contemporary-youth-literature-and-film-hb">
-        <em>AI in Contemporary Youth Literature and Film: Essays from Around the World</em></a>,
+        <em>AI in Contemporary Youth Literature and Film</em></a>,
       edited by Sara Pini and Emily Midkiff, Anthem Press, 2027.
     </td>
   </tr>
