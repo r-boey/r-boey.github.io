@@ -20,7 +20,7 @@ title: Selected Publications
   </tr>
 
   <tr>
-    <td valign="top">2027</td>
+    <td valign="top"></td>
     <td valign="top">
       Boey, Ryan-Ashleigh. "The Wild Robot and the Image of AI in the Age
       of AI."
