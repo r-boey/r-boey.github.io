@@ -277,7 +277,7 @@ title: Ryan-Ashleigh Boey
         <li>Linguistic fiction</li>
         <li>Metafiction</li>
         <li>Social semiotics</li>
-        <li>Singapore arts and culture</li>
+        <li>Singapore languages, arts, and culture</li>
       </ul>
 
 
